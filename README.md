@@ -52,6 +52,6 @@ With the staking lottery, ICX token holders will benefit from a new option to st
 
 ## Get Involved
 
-Contact me via any of the ways listed on our [website](https://posbakerz.com/).
+Contact us via any of the ways listed on our [website](https://posbakerz.com/).
 
 Want to support our ICON P-Rep activities with your vote? Check this [guide](https://medium.com/posbakerz/how-to-stake-vote-in-icon-icx-5926e8e8a54b).
