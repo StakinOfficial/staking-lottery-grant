@@ -6,7 +6,7 @@
 
 Here's an updated estimated timeline -
 
-- Set-up project structure - DONE
+- ~~Set-up project structure - DONE~~
 
   - ~~Timeline - DONE~~
   - ~~Repo - DONE~~
