@@ -15,7 +15,7 @@ Here's an updated estimated timeline -
 - Develop Spec - Complete by 1 May 2020
 
   - ~~Draft Spec - DONE~~
-  - Collect Feedback - In Progress
+  - ~~Collect Initial Technical Feedback - DONE~~
   - Refine Spec - In Progress
   - Share Final Spec for Feedback - Week of 20 April 2020
   - Publish Final Spec - Week of 27 April 2020
