@@ -22,7 +22,7 @@ Here's an updated estimated timeline -
 
 - Develop Staking Dapp - Complete by 30 June 2020
 
-  - Design Dapp - Week of 4 May 2020
+  - Design Dapp - In Progress
   - Collect Feedback - Week of 11 May 2020
   - Refine Dapp Design - Week of 18 May 2020
   - Build and implement Prototype - Week of 25 May 202
