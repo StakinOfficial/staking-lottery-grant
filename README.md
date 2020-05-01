@@ -16,9 +16,9 @@ Here's an updated estimated timeline -
 
   - ~~Draft Spec - DONE~~
   - ~~Collect Initial Technical Feedback - DONE~~
-  - Refine Spec - In Progress
-  - Share Final Spec for Feedback - Week of 20 April 2020
-  - Publish Final Spec - Week of 27 April 2020
+  - ~~Refine Spec - DONE~~
+  - Share Final Spec for Feedback - Week of 11 May 2020
+  - Publish Final Spec - Week of 18 May 2020
 
 - Develop Staking Dapp - Complete by 30 June 2020
 
