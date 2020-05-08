@@ -1,6 +1,6 @@
 ## Introduction
 
-[POS Bakerz](https://posbakerz.com/) has received a grant from [Velic Financial](https://www.velic.io/) to develop a staking lottery Dapp for the ICON ecosystem. This document describes the motivations, goals, process, timeline of the project, and skill set of team members.
+[Stakin](https://stakin.com/) has received a grant from [Velic Financial](https://www.velic.io/) to develop a staking lottery Dapp for the ICON ecosystem. This document describes the motivations, goals, process, timeline of the project, and skill set of team members.
 
 🎟 If you are interested in this project, please join our [waitlist](https://lottery.stakin.com/)! 🚀
 
@@ -35,7 +35,7 @@ Here's an updated estimated timeline -
 
 ## Motivation and Goals
 
-This project will build a Dapp for a risk free staking lottery on ICON. For more information on our staking lottery project, you can refer to this Medium post: [Introducing the ICON (\$ICX) Risk-free Lottery](https://medium.com/@PosBakerz/introducing-the-icon-icx-risk-free-lottery-44d6ffa5c37a)
+This project will build a Dapp for a risk free staking lottery on ICON. For more information on our staking lottery project, you can refer to this Medium post: [Introducing the ICON ($ICX) Risk-free Lottery](https://medium.com/stakin/introducing-the-icon-icx-risk-free-lottery-44d6ffa5c37a)
 
 There are numerous gaming Dapp on blockchains, but few have managed to successfully integrate with the Decentralized Finance (DeFi) landscape. Staking on ICON offer very attractive yield, which represents a massive opportunity to attract more crypto-enthusiasts to the protocol.
 
@@ -45,15 +45,17 @@ With the staking lottery, ICX token holders will benefit from a new option to st
 
 ## Meet the Team Members
 
-- [Edouard Lavidalle](https://twitter.com/EdouardL)
-- [Tiago Machado](https://twitter.com/tyootiago)
-- [Ian Enanoria](https://twitter.com/Iamdeadlyz)
-- [Nelson Avena](https://twitter.com/NelsonAv5)
-- [Giselle Schout](https://medium.com/@gisele_schout)
-- [Lionel Rebibo](https://www.linkedin.com/in/lionel-rebibo-67710554/)
+| Name              | Role              | Twitter                                           |
+| ----------------- | ----------------- | ------------------------------------------------- |
+| Edouard Lavidalle | Co-Founder        | [@EdouardL](https://twitter.com/EdouardL)         |
+| Tiago Machado     | Co-Founder        | [@Tyootiago](https://twitter.com/tyootiago)       |
+| Ian Enanoria      | Community Manager | [@Iamdeadlyz](https://twitter.com/Iamdeadlyz)     |
+| Nelson Avena      | Community Manager | [@NelsonAv5](https://twitter.com/NelsonAv5)       |
+| Giselle Schout    | Content Marketer  | [@GiseleSchout](https://twitter.com/GiseleSchout) |
+| Lionel Rebibo    | Sales  | [@LionelRebibo](https://www.linkedin.com/in/lionel-rebibo-67710554/) |
 
 ## Get Involved
 
-Contact us via any of the ways listed on our [website](https://posbakerz.com/).
+Contact us via any of the ways listed on our [website](https://stakin.com/), such as [Twitter](https://twitter.com/StakinOfficial), [Telegram](https://t.me/StakinOfficial) or [Discord](https://discord.gg/7uMyh9r).
 
-Want to support our ICON P-Rep activities with your vote? Check this [guide](https://medium.com/posbakerz/how-to-stake-vote-in-icon-icx-5926e8e8a54b).
+Want to support our ICON P-Rep activities with your vote? Check this [guide](https://medium.com/stakin/how-to-stake-vote-in-icon-icx-5926e8e8a54b).
