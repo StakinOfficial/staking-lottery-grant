@@ -2,6 +2,8 @@
 
 [POS Bakerz](https://posbakerz.com/) has received a grant from [Velic Financial](https://www.velic.io/) to develop a staking lottery Dapp for the ICON ecosystem. This document describes the motivations, goals, process, timeline of the project, and skill set of team members.
 
+🎟 If you are interested in this project, please join our [waitlist](https://lottery.stakin.com/)! 🚀
+
 ## Updated Process and Timeline - 1st April 2020
 
 Here's an updated estimated timeline -
@@ -17,7 +19,7 @@ Here's an updated estimated timeline -
   - ~~Draft Spec - DONE~~
   - ~~Collect Initial Technical Feedback - DONE~~
   - ~~Refine Spec - DONE~~
-  - Share Final Spec for Feedback - Week of 11 May 2020
+  - Share Final Spec for Feedback - Week of 11 May 2020 -> Slightly delayed, currently bumping on [setStake from multi-sig wallet issue](https://github.com/icon-project/multisig-wallet/issues/25), we're testing other functionalities on the testnet in the meanwhile 
   - Publish Final Spec - Week of 18 May 2020
 
 - Develop Staking Dapp - Complete by 30 June 2020
