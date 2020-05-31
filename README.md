@@ -14,21 +14,21 @@ Here's an updated estimated timeline -
   - ~~Repo - DONE~~
   - ~~Project board - DONE~~
 
-- Develop Spec - Complete by 1 May 2020
+- Develop Spec - Complete by 1 May 2020 -> Delayed, but still aiming for project completing hopefully by end of June
 
   - ~~Draft Spec - DONE~~
   - ~~Collect Initial Technical Feedback - DONE~~
   - ~~Refine Spec - DONE~~
   - Share Final Spec for Feedback - Week of 11 May 2020 -> Slightly delayed, currently bumping on [setStake from multi-sig wallet issue](https://github.com/icon-project/multisig-wallet/issues/25), we're testing other functionalities on the testnet in the meanwhile 
-  - Publish Final Spec - Week of 18 May 2020
+  - Publish Final Spec - Week of 18 May 2020 -> Currently testing core functions, might be slightly delayed
 
 - Develop Staking Dapp - Complete by 30 June 2020
 
-  - Design Dapp - In Progress
-  - Collect Feedback - Week of 11 May 2020
-  - Refine Dapp Design - Week of 18 May 2020
-  - Build and implement Prototype - Week of 25 May 202
-  - Collect Prototype Feedback - Week of 25 May and 1 June 2020
+  - ~~Design Dapp - DONE~~
+  - ~~Collect Feedback - DONE~~
+  - ~~Refine Dapp Design - DONE~~
+  - ~~Build and implement Prototype - DONE~~
+  - Collect Prototype Feedback - In Progress
   - Refine Prototype - Week of 8 June 2020
   - Implement refined prototype - Week of 15 June 2020
   - Launch & Market - Week of 22 June and further 
