@@ -4,6 +4,8 @@
 
 🎟 If you are interested in this project, please join our [waitlist](https://lottery.stakin.com/)! 🚀
 
+We estimate our progress to be at around 70%. We appreciate feedback and you may have a look at the unfinished web app [here](https://dev-lottery.netlify.app/home) ❤️.
+
 ## Updated Process and Timeline - 1st April 2020
 
 Here's an updated estimated timeline -
