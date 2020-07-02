@@ -34,10 +34,10 @@ Here's an updated estimated timeline -
   - ~~Collect Feedback - DONE~~
   - ~~Refine Dapp Design - DONE~~
   - ~~Build and implement Prototype - DONE~~
-  - Collect Prototype Feedback - In Progress
-  - Refine Prototype - Week of 8 June 2020
-  - Implement refined prototype - Week of 15 June 2020
-  - Launch & Market - Week of 22 June and further 
+  - ~~Collect Prototype Feedback - DONE~~
+  - ~~Refine Prototype - DONE~~
+  - ~~Implement refined prototype - DONE~~
+  - Launch & Market - August
 
 ## Motivation and Goals
 
