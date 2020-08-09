@@ -20,7 +20,7 @@ Here's an updated estimated timeline -
   - ~~Repo - DONE~~
   - ~~Project board - DONE~~
 
-- Develop Spec - Complete by 1 May 2020 -> Delayed, but still aiming for project completing hopefully by end of June
+- Develop Spec - Complete by 1 September 2020
 
   - ~~Draft Spec - DONE~~
   - ~~Collect Initial Technical Feedback - DONE~~
@@ -28,7 +28,7 @@ Here's an updated estimated timeline -
   - ~~Share Final Spec for Feedback - DONE~~
   - Publish Final Spec -> Currently testing core functions, might be slightly delayed
 
-- Develop Staking Dapp - Complete by 30 June 2020
+- Develop Staking Dapp - Complete by 1 September 2020
 
   - ~~Design Dapp - DONE~~
   - ~~Collect Feedback - DONE~~
