@@ -1,16 +1,18 @@
 ## Introduction
 
+### Update - The dapp is live on Icon Mainnet Now - access it [here](https://lottery.stakin.com/home)
+
 [Stakin](https://stakin.com/) has received a grant from [Velic Financial](https://www.velic.io/) to develop a staking lottery Dapp for the ICON ecosystem. This document describes the motivations, goals, process, timeline of the project, and skill set of team members.
 
-🎟 If you are interested in this project, please join our [waitlist](https://lottery.stakin.com/)! 🚀
+🎟 If you are interested in this project, please try it out [here](https://lottery.stakin.com/)! 🚀
 
-💹 We estimate our progress to be at around 75%.
+💹 The progress is now completed at 100%
 
-❤️ We appreciate feedback and you may have a look at the unfinished web app [here](https://dev-lottery.netlify.app/home).
+❤️ We appreciate all the feedbacks
 
 🤓 Want to know more about our staking lossless lottery and how it works? [Read our article](https://medium.com/stakin/blockchain-lossless-lotteries-are-turning-gambling-into-saving-f4e73dd40f8f). 
 
-## Updated Process and Timeline - 1st April 2020
+## Updated Process and Timeline - 15th Oct 2020
 
 Here's an updated estimated timeline -
 
@@ -20,15 +22,15 @@ Here's an updated estimated timeline -
   - ~~Repo - DONE~~
   - ~~Project board - DONE~~
 
-- Develop Spec - Complete by 1 September 2020
+- Develop Spec - Completed
 
   - ~~Draft Spec - DONE~~
   - ~~Collect Initial Technical Feedback - DONE~~
   - ~~Refine Spec - DONE~~
   - ~~Share Final Spec for Feedback - DONE~~
-  - Publish Final Spec -> Currently testing core functions, might be slightly delayed
+  - ~~Publish Final Spec -> Currently testing core functions~~
 
-- Develop Staking Dapp - Complete by 1 September 2020
+- Develop Staking Dapp - Completed by 1 September 2020
 
   - ~~Design Dapp - DONE~~
   - ~~Collect Feedback - DONE~~
@@ -37,7 +39,7 @@ Here's an updated estimated timeline -
   - ~~Collect Prototype Feedback - DONE~~
   - ~~Refine Prototype - DONE~~
   - ~~Implement refined prototype - DONE~~
-  - Launch & Market - September
+  - Launch & Market - October
 
 ## Motivation and Goals
 
@@ -59,6 +61,7 @@ With the staking lottery, ICX token holders will benefit from a new option to st
 | Nelson Avena      | Community Manager | [@NelsonAv5](https://twitter.com/NelsonAv5)       |
 | Giselle Schout    | Content Marketer  | [@GiseleSchout](https://twitter.com/GiseleSchout) |
 | Lionel Rebibo    | Sales  | [@LionelRebibo](https://www.linkedin.com/in/lionel-rebibo-67710554/) |
+| Abhishek Sharma    | Developer  | [@Cryptosabhi](https://twitter.com/cryptosabhi/) |
 
 ## Get Involved
 
